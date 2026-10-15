@@ -1,3 +1,5 @@
+*Update: https://github.com/Luisacaotica/ComfyUI-MiniMaxH3Mod/discussions/36
+
 # ComfyUI-MiniMaxH3Mod - Changing the F#cking world with cigarretes and coffe.
 
 > 🚧 **Under construction** — API and node schemas are still evolving. Mods
